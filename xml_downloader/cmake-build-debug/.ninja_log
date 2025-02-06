@@ -1,7 +1,0 @@
-# ninja log v6
-12	1312	7560765044354555	CMakeFiles/xml_downloader.dir/main.cpp.obj	796f9a5dc1103c9f
-1618	1731	7552258242085379	xml_downloader.exe	d9488cec5b36def3
-8	2172	7560766285337466	CMakeFiles/xml_downloader.dir/pugixml.cpp.obj	dec04f93d5c565e6
-2172	2342	7560766306970372	xml_downloader.exe	d9d3f9c0fddd738d
-7	902	7560768510165881	CMakeFiles/xml_downloader.dir/main.cpp.obj	796f9a5dc1103c9f
-903	1168	7560768519116757	xml_downloader.exe	d9d3f9c0fddd738d
