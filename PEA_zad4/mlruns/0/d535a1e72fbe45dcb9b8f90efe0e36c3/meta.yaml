@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d535a1e72fbe45dcb9b8f90efe0e36c3/artifacts
+end_time: 1737155834546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d535a1e72fbe45dcb9b8f90efe0e36c3
+run_name: able-croc-368
+run_uuid: d535a1e72fbe45dcb9b8f90efe0e36c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737155834455
+status: 4
+tags: []
+user_id: obied

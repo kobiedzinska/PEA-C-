@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/obied/CLionProjects/PEA_zad4/mlruns/685262374549014228/ad5ae496157044bfab72e40347d52828/artifacts
+end_time: 1737153768747
+entry_point_name: ''
+experiment_id: '685262374549014228'
+lifecycle_stage: active
+run_id: ad5ae496157044bfab72e40347d52828
+run_name: salty-skink-134
+run_uuid: ad5ae496157044bfab72e40347d52828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737153768665
+status: 4
+tags: []
+user_id: obied

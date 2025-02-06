@@ -1,0 +1,5 @@
+C:/Users/obied/CLionProjects/PEA_zad4/cmake-build-debug/CMakeFiles/pugixml.dir
+C:/Users/obied/CLionProjects/PEA_zad4/cmake-build-debug/CMakeFiles/genetic_tsp_cpp.dir
+C:/Users/obied/CLionProjects/PEA_zad4/cmake-build-debug/CMakeFiles/PEA_zad4.dir
+C:/Users/obied/CLionProjects/PEA_zad4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/obied/CLionProjects/PEA_zad4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

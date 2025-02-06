@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/obied/CLionProjects/PEA_zad4/mlruns/685262374549014228/90e355bf7a3e40a985cda449678bf80c/artifacts
+end_time: 1737153953742
+entry_point_name: ''
+experiment_id: '685262374549014228'
+lifecycle_stage: active
+run_id: 90e355bf7a3e40a985cda449678bf80c
+run_name: upset-deer-767
+run_uuid: 90e355bf7a3e40a985cda449678bf80c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737153953657
+status: 4
+tags: []
+user_id: obied

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fd80dd8e7eff4b7d94531d13b8f89a68/artifacts
+end_time: 1737156130190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd80dd8e7eff4b7d94531d13b8f89a68
+run_name: skittish-stoat-361
+run_uuid: fd80dd8e7eff4b7d94531d13b8f89a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737156130108
+status: 4
+tags: []
+user_id: obied

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c7f6d3dfa0274bbbb6d979484bd3b718/artifacts
+end_time: 1737154069833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7f6d3dfa0274bbbb6d979484bd3b718
+run_name: thundering-cow-713
+run_uuid: c7f6d3dfa0274bbbb6d979484bd3b718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737154069777
+status: 4
+tags: []
+user_id: obied

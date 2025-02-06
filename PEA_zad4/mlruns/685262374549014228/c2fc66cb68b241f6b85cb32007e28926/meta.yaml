@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/obied/CLionProjects/PEA_zad4/mlruns/685262374549014228/c2fc66cb68b241f6b85cb32007e28926/artifacts
+end_time: 1737153768744
+entry_point_name: ''
+experiment_id: '685262374549014228'
+lifecycle_stage: active
+run_id: c2fc66cb68b241f6b85cb32007e28926
+run_name: casual-toad-315
+run_uuid: c2fc66cb68b241f6b85cb32007e28926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737153768709
+status: 4
+tags: []
+user_id: obied

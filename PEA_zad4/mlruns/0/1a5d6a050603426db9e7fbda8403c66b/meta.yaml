@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1a5d6a050603426db9e7fbda8403c66b/artifacts
+end_time: 1737156019173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a5d6a050603426db9e7fbda8403c66b
+run_name: placid-mole-456
+run_uuid: 1a5d6a050603426db9e7fbda8403c66b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737156019084
+status: 4
+tags: []
+user_id: obied

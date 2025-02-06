@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/obied/CLionProjects/PEA_zad4/cpp/Input/mlruns/0/7fd77fd23e3549358ed7c27d4a812fd1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fd77fd23e3549358ed7c27d4a812fd1
+run_name: welcoming-snail-105
+run_uuid: 7fd77fd23e3549358ed7c27d4a812fd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737156279825
+status: 1
+tags: []
+user_id: obied

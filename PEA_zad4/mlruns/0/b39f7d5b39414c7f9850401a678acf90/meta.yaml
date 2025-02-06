@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b39f7d5b39414c7f9850401a678acf90/artifacts
+end_time: 1737154482332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b39f7d5b39414c7f9850401a678acf90
+run_name: redolent-newt-307
+run_uuid: b39f7d5b39414c7f9850401a678acf90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737154482229
+status: 4
+tags: []
+user_id: obied

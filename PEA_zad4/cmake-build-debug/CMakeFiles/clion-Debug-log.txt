@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -Dpybind11_DIR=C:/Users/obied/CLionProjects/PEA_zad4/.venv/Lib/site-packages/pybind11/share/cmake/pybind11 -G Ninja -DPython_EXECUTABLE=C:/Users/obied/CLionProjects/PEA_zad4/venv/Scripts/python.exe -DPython3_EXECUTABLE=C:/Users/obied/CLionProjects/PEA_zad4/venv/Scripts/python.exe -S C:\Users\obied\CLionProjects\PEA_zad4 -B C:\Users\obied\CLionProjects\PEA_zad4\cmake-build-debug
+-- pybind11::lto disabled (problems with undefined symbols for MinGW for now)
+-- pybind11::thin_lto disabled (problems with undefined symbols for MinGW for now)
+-- Found pybind11: C:/Users/obied/CLionProjects/PEA_zad4/.venv/Lib/site-packages/pybind11/include (found version "2.13.6")
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/obied/CLionProjects/PEA_zad4/cmake-build-debug

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fdc98355d89f4feaacf2b88d2acf0681/artifacts
+end_time: 1737155834543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdc98355d89f4feaacf2b88d2acf0681
+run_name: funny-colt-756
+run_uuid: fdc98355d89f4feaacf2b88d2acf0681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737155834504
+status: 4
+tags: []
+user_id: obied

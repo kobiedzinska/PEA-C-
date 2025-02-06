@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2adad32c7a2c4aa9abc03cea0de791ae/artifacts
+end_time: 1737154398197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2adad32c7a2c4aa9abc03cea0de791ae
+run_name: omniscient-ray-466
+run_uuid: 2adad32c7a2c4aa9abc03cea0de791ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737154398155
+status: 4
+tags: []
+user_id: obied

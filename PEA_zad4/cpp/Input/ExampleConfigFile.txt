@@ -1,0 +1,5 @@
+filename
+population size
+crossover_rate
+mutation_rate
+timeLimit

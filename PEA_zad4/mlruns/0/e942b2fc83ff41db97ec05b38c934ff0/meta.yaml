@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e942b2fc83ff41db97ec05b38c934ff0/artifacts
+end_time: 1737155932281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e942b2fc83ff41db97ec05b38c934ff0
+run_name: clumsy-horse-321
+run_uuid: e942b2fc83ff41db97ec05b38c934ff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737155932237
+status: 4
+tags: []
+user_id: obied

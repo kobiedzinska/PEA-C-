@@ -1,0 +1,6 @@
+nazwa_pliku.xml
+initialTemp
+maxIterations
+timeLimit
+a = współczynnik chłodzenia
+strategy -> sposób definicji sąsiedztwa

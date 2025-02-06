@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/45c3870c0d9145b190ab58fa0b527f4e/artifacts
+end_time: 1737154482330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45c3870c0d9145b190ab58fa0b527f4e
+run_name: magnificent-bat-989
+run_uuid: 45c3870c0d9145b190ab58fa0b527f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737154482288
+status: 4
+tags: []
+user_id: obied

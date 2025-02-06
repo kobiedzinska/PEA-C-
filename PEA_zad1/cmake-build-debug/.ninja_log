@@ -1,0 +1,15 @@
+# ninja log v6
+6	442	7514115468027593	CMakeFiles/PEA_zad1.dir/main.cpp.obj	448e62f37a11f9bb
+31	628	7512847980017422	CMakeFiles/PEA_zad1.dir/Utilities/Macierz/Matrix.cpp.obj	a2e79255de026caa
+57	694	7512847980277440	CMakeFiles/PEA_zad1.dir/Aplikacja/Application.cpp.obj	a283634ae4a4a508
+6	451	7512381146026408	CMakeFiles/PEA_zad1.dir/Algorytmy/NNA.cpp.obj	918a876ba7a7bea6
+23	551	7512359631733526	CMakeFiles/PEA_zad1.dir/Algorytmy/BruteForceA.cpp.obj	b6faf411ee3ab289
+7	562	7512432419656911	CMakeFiles/PEA_zad1.dir/Algorytmy/RandomA.cpp.obj	d4f8cf677192814c
+1321	1715	7514115481176962	PEA_zad1.exe	32d7ad3093fdee48
+88	1194	7512359632382412	CMakeFiles/PEA_zad1.dir/Utilities/Timer/Stoper.cpp.obj	7811c9c3c3f7730a
+16	1321	7514115468128903	CMakeFiles/PEA_zad1.dir/Utilities/Tests/Testing.cpp.obj	43c7628468a914a8
+126	522	7512359632761787	CMakeFiles/PEA_zad1.dir/Utilities/Permutation/Permutation.cpp.obj	58a8718ca2cb618
+7	1339	7514135744755746	CMakeFiles/PEA_zad1.dir/Utilities/Tests/Testing.cpp.obj	43c7628468a914a8
+1340	1714	7514135758082166	PEA_zad1.exe	32d7ad3093fdee48
+6	1273	7514140385186194	CMakeFiles/PEA_zad1.dir/Utilities/Tests/Testing.cpp.obj	43c7628468a914a8
+1274	1638	7514140397867227	PEA_zad1.exe	32d7ad3093fdee48

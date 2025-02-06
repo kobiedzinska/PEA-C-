@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/005509b8d98b48d48ebab7c67cd82716/artifacts
+end_time: 1737156130187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 005509b8d98b48d48ebab7c67cd82716
+run_name: carefree-ant-506
+run_uuid: 005509b8d98b48d48ebab7c67cd82716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737156130154
+status: 4
+tags: []
+user_id: obied

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dc95c9be8fc84f1293c42ac59dbdfb23/artifacts
+end_time: 1737154752602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc95c9be8fc84f1293c42ac59dbdfb23
+run_name: respected-fly-811
+run_uuid: dc95c9be8fc84f1293c42ac59dbdfb23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737154752508
+status: 4
+tags: []
+user_id: obied

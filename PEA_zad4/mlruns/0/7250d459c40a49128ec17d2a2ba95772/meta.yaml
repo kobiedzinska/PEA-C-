@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7250d459c40a49128ec17d2a2ba95772/artifacts
+end_time: 1737154971497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7250d459c40a49128ec17d2a2ba95772
+run_name: luminous-snake-636
+run_uuid: 7250d459c40a49128ec17d2a2ba95772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737154971456
+status: 4
+tags: []
+user_id: obied

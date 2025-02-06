@@ -1,0 +1,4 @@
+// mode:                R                 /            G
+// nazwa pliku: (bez rozszerzenia)       // size:
+// algorytm:    BFS / DFS / BEST /ALL    // isSymmetric: 0/1
+                                         // algorytm: BFS / DFS / BEST / ALL
